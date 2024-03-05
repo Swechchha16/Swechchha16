@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Java,C, HTML, CSS, Python, SQL, Machine Learning, Cloud Computing**
+- 💬 Ask me about **Java,C, HTML, CSS, JavaScript, Python, SQL, Machine Learning, Cloud Computing**
 
 - 📫 How to reach me **31771cs@gmail.com**
 
@@ -40,5 +40,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swechchha16&show_icons=true&locale=en" alt="swechchha16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swechchha16&" alt="swechchha16" /></p>
-
-           
